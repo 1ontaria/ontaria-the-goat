@@ -1,4 +1,9 @@
 body {
   background: pink;
-  font-family: "Courier New", Courier, monospace;
+  font-family: sans-serif;
+}
+
+div#selfie {
+  border-style: double;
+  padding: 20px 300px 20px 300px;
 }
